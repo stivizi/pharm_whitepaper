@@ -6,6 +6,33 @@ body {
     background-color: #f4f4f4;
     color: #333;
     display: flex; /* Use flexbox for layout */
+    flex-direction: row; /* Default flex direction for non-home pages */
+}
+
+.body-home {
+    /* Revert to row direction for home page body */
+    flex-direction: row;
+    /* Remove background image and related styles from the body */
+    background-image: none;
+    background-color: transparent;
+    mix-blend-mode: normal;
+    position: relative; /* Needed for absolute positioning of ::before */
+    overflow: hidden; /* Hide flipped edges */
+}
+
+.body-home::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url('welcome_pharm.jpg');
+    background-size: cover;
+    background-position: center;
+    background-color: rgb(0 0 0 / 70%); /* Black with 70% opacity */
+    mix-blend-mode: darken;
+    z-index: -1; /* Place behind content */
 }
 
 .sidebar {
@@ -17,6 +44,13 @@ body {
     position: sticky;
     top: 0;
     height: 100vh;
+    margin: 0;
+    padding: 1em;
+}
+
+.body-home .sidebar {
+    background-color: rgba(255, 255, 255, 0.6); /* White background with 50% opacity */
+    box-shadow: none; /* Remove box shadow on home page sidebar */
 }
 
 .sidebar h2 {
@@ -31,6 +65,7 @@ body {
 
 .sidebar li {
     margin-bottom: 10px;
+    font-weight: bold;
 }
 
 .sidebar a {
@@ -49,13 +84,94 @@ body {
     padding: 20px; /* Add padding to main content */
 }
 
+.main-content {
+    flex-grow: 1; /* Allow main content to grow */
+    padding: 20px; /* Add padding to main content */
+}
+
+.body-home .main-content {
+    height: 100vh; /* Make main content take full viewport height on home page */
+    padding: 0; /* Remove padding on home page main content as container will handle it */
+    display: flex; /* Use flexbox to center container content */
+    align-items: center; /* Vertically center container content */
+    justify-content: flex-end; /* Push container content to the right */
+}
+
+
 .container {
-    max-width: 1440px;
-    margin: auto;
-    background: #fff;
-    padding: 20px 30px;
-    border-radius: 8px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    max-width: 1440px; /* Restore max-width for non-home pages */
+    margin: auto; /* Restore auto margin for centering on non-home pages */
+    background: #fff; /* Restore white background for non-home pages */
+    padding: 20px 30px; /* Restore padding for non-home pages */
+    border-radius: 8px; /* Restore border-radius for non-home pages */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Restore box-shadow for non-home pages */
+    /* Ensure no background or positioning from previous attempts */
+    position: static;
+    width: auto;
+    height: auto;
+    overflow: visible;
+    display: block;
+    align-items: stretch;
+    justify-content: flex-start;
+    color: #333;
+}
+
+.body-home .container {
+    /* Styles for the container on the home page */
+    position: static; /* Revert to static as background is on body */
+    width: 50%; /* Take up the right half of the main-content */
+    height: auto; /* Height determined by content */
+    overflow: visible;
+    display: block;
+    align-items: stretch;
+    justify-content: flex-start;
+    color: rgb(255 255 255 / 90%); /* Set text color to white */
+    /* Remove styles that should only be on non-home container */
+    max-width: none;
+    margin: 0;
+    background: none;
+    padding: 20px; /* Add padding back to the container content */
+    border-radius: 1em;
+    box-shadow: none;
+    background-color: rgb(0 0 0 / 66%);
+    text-align: center;
+    margin-right: 7%;
+}
+
+/* Remove the .body-home .container::before rule as background is on body */
+
+.container-content {
+    /* This div is no longer needed for positioning on the home page */
+    /* Its content will be directly inside the .body-home .container */
+}
+
+.body-home .container h1,
+.body-home .container h2,
+.body-home .container h3 {
+    color: white; /* Ensure headings are white on home page */
+}
+
+h1, h2, h3 {
+    color: #0056b3;
+}
+
+.container-content {
+     /* Take up the right half */
+     box-sizing: border-box;
+     position: relative;
+     z-index: 1; /* Ensure content is above the pseudo-element */
+     border-radius: 10px;
+}
+
+.body-home .container-content h1,
+.body-home .container-content h2,
+.body-home .container-content h3 {
+    color: white; /* Ensure headings are white on home page */
+    margin: 0;
+}
+
+h1, h2, h3 {
+    color: #0056b3;
 }
 
 h1, h2, h3 {
@@ -77,4 +193,8 @@ ul, ol {
 
 li {
     margin-bottom: 10px;
+}
+
+.container-content p {
+    margin: 0;
 }
