@@ -1,6 +1,6 @@
 # Risk Analysis and Mitigation
 
-The Pharm project, while ambitious and dedicated to serving the autism community, is subject to various risks inherent in establishing and operating a physical learning and play center. This section provides a summary of the key risks identified and outlines the strategies The Pharm will employ to mitigate them. It is important to note that while comprehensive mitigation efforts are planned, some residual risks may remain due to external factors and the inherent nature of working with vulnerable populations. Risks are generally assessed based on their potential impact and likelihood, with high-impact and high-likelihood risks being prioritized for mitigation. A simple qualitative framework (e.g., High, Medium, Low) is used for initial risk prioritization.
+[The Pharm](index.html#the-pharm) project, while ambitious and dedicated to serving the [autism community](index.html#autism-community), is subject to various risks inherent in establishing and operating a physical learning and play center. This section provides a summary of the key risks identified and outlines the strategies The Pharm will employ to mitigate them. It is important to note that while comprehensive mitigation efforts are planned, some residual risks may remain due to external factors and the inherent nature of working with vulnerable populations. [Risk Analysis and Mitigation](risk_analysis.html#risk-analysis-and-mitigation) are generally assessed based on their potential impact and likelihood, with high-impact and high-likelihood risks being prioritized for mitigation. A simple qualitative framework (e.g., High, Medium, Low) is used for initial risk prioritization.
 
 ## Financial Risks
 
@@ -15,7 +15,7 @@ The Pharm project, while ambitious and dedicated to serving the autism community
 
 *   **Property Security:** Ensuring the physical security of the property, buildings, and animals to prevent unauthorized access, theft, or vandalism.
     *   **Mitigation:** Implementing appropriate security measures such as fencing, lighting, surveillance systems, and potentially on-site staff or security personnel.
-*   **Safety of Individuals on Site:** Ensuring the safety and well-being of all individuals visiting or working at The Pharm, particularly children with autism who may have unique safety needs.
+*   **Safety of Individuals on Site:** Ensuring the safety and [well-being](index.html#well-being) of all individuals visiting or working at The Pharm, particularly children with autism who may have unique safety needs.
     *   **Mitigation:** Implementing rigorous safety protocols for all activities and areas, ensuring staff are trained in safety procedures and emergency response, conducting regular safety audits, and maintaining appropriate insurance coverage.
 *   **Data Security and Privacy:** Protecting the privacy and security of personal information collected from members, families, and staff.
     *   **Mitigation:** Implementing robust data security measures, complying with relevant privacy regulations (e.g., HIPAA if health information is handled), and establishing clear policies on data collection, storage, and usage.
@@ -56,4 +56,4 @@ The Pharm project, while ambitious and dedicated to serving the autism community
 
 The Pharm is committed to continuous monitoring of the risk landscape. The leadership team, potentially with input from a Community Advisory Board, will be responsible for monitoring key risks, evaluating the effectiveness of mitigation strategies, and adapting the approach as needed. A process for community members to report potential risks or incidents will be established. Response protocols for addressing safety incidents, operational issues, or other critical situations will be developed, with clear lines of responsibility and communication.
 
-By openly addressing these risks and detailing the mitigation strategies, The Pharm aims to build trust with its community and stakeholders and operate a safe, supportive, and sustainable center.
+By openly addressing these risks and detailing the mitigation strategies, The Pharm aims to build trust with its community and [stakeholders](index.html#stakeholders) and operate a safe, supportive, and sustainable center.

@@ -1,6 +1,6 @@
 # Legal & Compliance
 
-The Pharm is committed to operating within the bounds of applicable legal and regulatory frameworks relevant to establishing and running a learning and play center for the autism community on its property. Navigating the relevant landscape of regulations is a priority.
+[The Pharm](index.html#the-pharm) is committed to operating within the bounds of applicable legal and regulatory frameworks relevant to establishing and running a learning and play center for the autism community on its property. Navigating the relevant landscape of regulations is a priority.
 
 ## Understanding Relevant Regulations
 
@@ -18,7 +18,7 @@ Comprehensive legal due diligence and proactive legal strategy are undertaken fo
 
 *   **Expert Legal Consultation:** The Pharm engages with specialist legal teams well-versed in non-profit law, property law, health and safety regulations, and relevant regulations related to fundraising and membership. These consultations inform the center's structure, operations, and compliance efforts.
 *   **Regulatory Analysis:** Thorough analysis of the legal and regulatory landscape relevant to operating the center in its specific location is conducted to identify potential challenges and ensure compliance with local and regional laws.
-*   **Stakeholder Engagement:** Engaging with local stakeholders, including legal experts, relevant regulatory bodies where appropriate, and community leaders, helps ensure that The Pharm's operations align with legal requirements and community expectations.
+*   **[Stakeholder](index.html#stakeholders) Engagement:** Engaging with local stakeholders, including legal experts, relevant regulatory bodies where appropriate, and community leaders, helps ensure that The Pharm's operations align with legal requirements and community expectations.
 *   **Continual Review and Adaptation:** The regulatory environment can evolve. The Pharm is committed to ongoing review of legal and regulatory developments and adapting its strategies and operations as necessary to maintain compliance.
 
 ## Legal and Regulatory Risks and Mitigation

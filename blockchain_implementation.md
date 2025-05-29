@@ -1,6 +1,6 @@
 # Blockchain Implementation in The Pharm
 
-Blockchain technology can form a layer of trust, transparency, and potential future decentralization within The Pharm. Leveraging a decentralized ledger system, The Pharm can ensure that certain operations, such as funding/donations, membership status, and potentially future governance decisions, are recorded in a transparent, secure, and immutable manner. This fosters accountability and reinforces trust among stakeholders.
+[Blockchain](blockchain_implementation.html#blockchain-implementation) technology can form a layer of trust, transparency, and potential future decentralization within [The Pharm](index.html#the-pharm). Leveraging a decentralized ledger system, The Pharm can ensure that certain operations, such as funding/donations, membership status, and potentially future governance decisions, are recorded in a transparent, secure, and immutable manner. This fosters accountability and reinforces trust among [stakeholders](index.html#stakeholders).
 
 ## Potential Use Cases for Blockchain at The Pharm
 

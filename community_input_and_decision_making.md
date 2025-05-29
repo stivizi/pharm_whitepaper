@@ -1,10 +1,10 @@
 # Community Input and Decision-Making
 
-Community input and transparent decision-making are central to shaping the future of The Pharm. This approach ensures that the collective's aspirations and the needs of the autism community drive The Pharm's evolution.
+[Community Input and Decision-Making](community_input_and_decision_making.html#community-input-and-decision-making) are central to shaping the future of [The Pharm](index.html#the-pharm). This approach ensures that the collective's aspirations and the needs of the autism community drive The Pharm's evolution.
 
 ## Essence of Community-Centric Decision-Making
 
-A community-centric approach to decision-making at The Pharm breaks from traditional top-down hierarchical structures, distributing influence and providing avenues for input among stakeholders (families, staff, volunteers, supporters). This model fosters a sense of collective ownership and responsibility, promoting:
+A community-centric approach to decision-making at The Pharm breaks from traditional top-down hierarchical structures, distributing influence and providing avenues for input among [stakeholders](index.html#stakeholders) (families, staff, volunteers, supporters). This model fosters a sense of collective ownership and responsibility, promoting:
 
 *   **Democratic Participation:** Decisions are informed by the cumulative voice of many stakeholders, ensuring a broader perspective and inclusivity in shaping the center's direction. This can be facilitated through feedback mechanisms, forums, working groups, and direct communication channels that allow members to contribute ideas and engage in discussions.
 *   **Transparency and Accountability:** Making decision-making processes and outcomes transparent fosters trust and accountability among participants.

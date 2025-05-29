@@ -1,6 +1,6 @@
 # Funding and Membership
 
-The sustainability and growth of The Pharm rely on secure funding and a supportive community. This section outlines potential approaches to funding and a membership model, as mentioned in the brief.
+The sustainability and growth of [The Pharm](index.html#the-pharm) rely on secure [Funding and Membership](funding_and_membership.html#funding-and-membership). This section outlines potential approaches to funding and a membership model, as mentioned in the brief.
 
 ## Funding Approaches
 
@@ -46,7 +46,7 @@ The Pharm will utilize a combination of strategies for financial stability:
 
 *   **Diversified Funding:** Relying on multiple funding sources to reduce dependence on any single stream.
 *   **Responsible Budgeting:** Implementing careful financial planning and cost management.
-*   **Transparent Reporting:** Providing clear and regular financial updates to stakeholders.
+*   **Transparent Reporting:** Providing clear and regular financial updates to [stakeholders](index.html#stakeholders).
 *   **Community Support:** Building a strong and engaged community of donors and members who are committed to The Pharm's mission.
 *   **Grant Management:** Implementing robust processes for identifying, applying for, and managing grants from relevant foundations and government programs.
 *   **Earned Income Opportunities:** Exploring opportunities for earned income through activities aligned with the mission, such as selling farm products, offering workshops, or hosting events.
